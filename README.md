@@ -6,19 +6,19 @@ Code 201 Reading Notes
 ---|:---:
 [Reading 1]<td colspan=2>|
 |Reading| 
-[Reading 2](<td colspan=2>|
+[Reading 2]<td colspan=2>|
 |Reading|
-  [Reading 3](<td colspan=2>|
+[Reading 3]<td colspan=2>|
 |Reading|
-    [Reading 4](<td colspan=2>|
+[Reading 4]<td colspan=2>|
 |Reading|
-      [Reading 5](<td colspan=2>|
+[Reading 5]<td colspan=2>|
 |Reading|
-        [Reading 6](<td colspan=2>|
+[Reading 6]<td colspan=2>|
 |Reading|
-          [Reading 7](<td colspan=2>|
+[Reading 7]<td colspan=2>|
 |Reading|
-            [Reading 8](<td colspan=2>|
+[Reading 8]<td colspan=2>|
 |Reading|
               
 
