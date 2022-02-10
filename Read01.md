@@ -13,7 +13,7 @@ In line elements can be placed within the paragraph <em>
 Meta element gives information on the page
 All HTML requires a doc type HTML5 <!DOCTYPE html>
 
-To add notes: <!-->
+To add notes: <!-- -->
 
 Scripts in JS can be written to give the program instructions on how to behave dependent on the actions taken.
 
