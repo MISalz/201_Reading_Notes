@@ -15,13 +15,21 @@ All HTML requires a doc type HTML5 `<!DOCTYPE html>`
 
 To add notes: <!-- -->  
 
-### Scripts in JS can be written to give the program instructions on how to behave dependent on the actions taken.  
+### Scripts in JS 
+can be written to give the program instructions on how to behave dependent on the actions taken.  
 
-### PROPERTIES Properties describe characteristics of the current web page (such as the title of the page).  
+### PROPERTIES 
+Properties describe characteristics of the current web page (such as the title of the page).  
 
-### METHODS Methods perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).  
+### METHODS 
+Methods perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).  
 
-### EVENTS You can respond to events, such as a user clicking or tapping on an element.  
+### EVENTS 
+You can respond to events, such as a user clicking or tapping on an element.  
 
-### HTML	CSS	Javascript
-Content Layer	Presentation Layer	Behavior layer  
+### HTML	
+Content Layer	
+## CSS	 
+Presentation Layer	
+### Javascript  
+Behavior layer  
